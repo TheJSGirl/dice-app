@@ -1,6 +1,6 @@
 .Dice {
     padding: 0.25em;
-    font-size: 8em;
+    font-size: 10em;
     color: slateblue;
     animation-name: wobble;
     animation-duration: 2s;
